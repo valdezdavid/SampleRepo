@@ -5,7 +5,8 @@ int main(int argc, char* argv[])
 {
 
 
-	std::count << "Hello World" << endl;
+	std::cout << "Hello World" << endl;
+	std::cout << "Get ready for some fun in CS 104" << endl;
 }
 
 return 0;
